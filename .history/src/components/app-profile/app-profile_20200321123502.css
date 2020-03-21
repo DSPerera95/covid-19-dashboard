@@ -1,0 +1,9 @@
+.app-profile {
+  padding: 10px;
+}
+
+button {
+  padding: 1rem;
+  background-color: darkgreen;
+  color: #fff;
+}

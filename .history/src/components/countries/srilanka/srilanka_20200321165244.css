@@ -1,0 +1,24 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css");
+
+:host {
+  display: block;
+  padding: 1rem;
+}
+
+.card-new-case {
+  background: blue;
+  border-color: blue;
+  color: #fff;
+}
+
+.card-total-case {
+  border-color: cornflowerblue;
+}
+
+.card-death-case {
+  border-color: crimson;
+}
+
+.card-recover-case {
+  border-color: lightseagreen;
+}
